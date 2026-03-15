@@ -72,4 +72,5 @@ A high-performance, visually stunning portfolio showcasing expertise in **Data E
 ## 📫 Contact
 
 * **GitHub:** [Varun5526](https://github.com/Varun5526)
-* **LinkedIn:** [Your LinkedIn URL](Add your URL here!)
+* **LinkedIn:** (http://www.linkedin.com/in/varun-s-226513305)
+* **Portfolio:** (https://varunportfolio0523.netlify.app/)
